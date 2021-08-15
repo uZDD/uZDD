@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uZDD
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in С++
+- 🌱 I’m currently learning С++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
